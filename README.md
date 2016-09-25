@@ -1,0 +1,2 @@
+# MCM
+Mathematics Modeling Contest
